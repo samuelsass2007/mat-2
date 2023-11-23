@@ -1,1 +1,1 @@
-alert("olá 2 ano - ENSINO MÉDIO!" )
+alert("olá 2 ano - ENSINO MÉDIO!" ) 
